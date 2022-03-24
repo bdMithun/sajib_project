@@ -3263,6 +3263,11 @@ button {
     -webkit-transition: all 500ms;
     transition: all 500ms;
 }
+.btn{
+    color:#fff;
+    border-radisu:100px;
+    
+}
 
 
 .button:hover {
