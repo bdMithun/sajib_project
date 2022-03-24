@@ -4964,28 +4964,7 @@ button[disabled] {
 .section--dark p:not([class*='text-color-']):not([class*='color-']) {
     color: #979EA5;
 }
-button{
-    position: relative;
-    z-index: 1;
-    min-width: 160px;
-    height: 48px;
-    line-height: 48px;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1px;
-    display: inline-block;
-    padding: 0 20px;
-    text-align: center;
-    text-transform: uppercase;
-    background-size: 200% auto;
-    color: #fff;
-    box-shadow: 0 3ox 20px rgba(0, 0, 0, 0.1);
-    border-radius: 0.25rem;
-    background-image: -webkit-linear-gradient(left, #21d397 0%, #7450fe 51%, #21d397 100%);
-    background-image: linear-gradient(to right, #ff0000 0%, #ff0000 51%, #ffffff 100%);
-    -webkit-transition: all 500ms;
-    transition: all 500ms;
-}
+
 
 /* connect walet button */
 
